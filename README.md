@@ -144,4 +144,3 @@ Example:
 
 The file must exist at:
 `public/images/my-new-photo.webp`
-# shop
